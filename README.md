@@ -100,6 +100,6 @@ https://github.com/lovelyramghria/employemanagement
 - Email: lovelyramghria39@gmail.com  
 
 ## 📄 Resume
-[![Download CV](https://img.shields.io/badge/Download-CV-black?style=for-the-badge)](Lovely Resume (2).pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-black?style=for-the-badge)](cv.pdf)
 
 ---
